@@ -24,7 +24,7 @@ You will get this photo
 
 Clicking on the link will lead you to
 
-![](./static/Screenshot%202022-06-27%20185503.png)
+![](./image.png)
 
 3. Then decoding the stegno file using any online tool will give you
 
