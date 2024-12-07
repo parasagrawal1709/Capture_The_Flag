@@ -1,3 +1,3 @@
-# GDSC_CTF
+# CTF
 
 Here are some of the challenges which I made in deconstructf
